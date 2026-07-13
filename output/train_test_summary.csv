@@ -1,0 +1,5 @@
+Dataset,Rows,Columns
+Regression Train,222960,246
+Regression Test,55741,246
+Classification Train,222960,246
+Classification Test,55741,246

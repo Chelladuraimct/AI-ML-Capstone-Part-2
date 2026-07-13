@@ -1,0 +1,8 @@
+ROC-AUC Evaluation Report
+========================
+
+Model: Logistic Regression
+
+AUC Score: 1.0000
+
+Interpretation: Excellent classifier performance

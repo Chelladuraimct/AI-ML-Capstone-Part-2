@@ -1,0 +1,9 @@
+Bootstrap Confidence Interval Report
+===================================
+
+Bootstrap Iterations: 1000
+
+Mean Accuracy: 1.0000
+
+95% Confidence Interval:
+1.0000 - 1.0000

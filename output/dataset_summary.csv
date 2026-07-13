@@ -1,2 +1,2 @@
-Rows,Columns,Numeric Columns,Categorical Columns,Missing Values,Duplicate Rows
-278701,39,20,19,0,0
+Regression Target,Classification Target,Feature Count,Rows
+glucose,Existing Binary Label,37,278701

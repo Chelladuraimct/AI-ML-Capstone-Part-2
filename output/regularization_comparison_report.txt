@@ -1,0 +1,15 @@
+Logistic Regression Regularization Comparison
+=============================================
+
+                        Model  Accuracy  Precision  Recall  F1 Score  ROC AUC
+0   Logistic Regression C=1.0  1.000000   1.000000     1.0  1.000000      1.0
+1  Logistic Regression C=0.01  0.999946   0.999851     1.0  0.999925      1.0
+
+Best Model Based on F1 Score:
+Model        Logistic Regression C=1.0
+Accuracy                           1.0
+Precision                          1.0
+Recall                             1.0
+F1 Score                           1.0
+ROC AUC                            1.0
+Name: 0, dtype: object

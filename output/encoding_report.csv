@@ -1,0 +1,19 @@
+Column,Encoding,Reason
+age_level,Label Encoding,Ordinal Feature
+bmi_level,Label Encoding,Ordinal Feature
+composite_key,One-Hot Encoding,Nominal Feature
+gender,One-Hot Encoding,Nominal Feature
+smoking,One-Hot Encoding,Nominal Feature
+diabetes,One-Hot Encoding,Nominal Feature
+physical_activity,One-Hot Encoding,Nominal Feature
+family_history,One-Hot Encoding,Nominal Feature
+stress_level,One-Hot Encoding,Nominal Feature
+low_hdl_cholesterol,One-Hot Encoding,Nominal Feature
+high_ldl_cholesterol,One-Hot Encoding,Nominal Feature
+high_blood_pressure,One-Hot Encoding,Nominal Feature
+sugar_consumption,One-Hot Encoding,Nominal Feature
+education_level,One-Hot Encoding,Nominal Feature
+employment_status,One-Hot Encoding,Nominal Feature
+source_dataset,One-Hot Encoding,Nominal Feature
+disease_flags,One-Hot Encoding,Nominal Feature
+sublabel,One-Hot Encoding,Nominal Feature
