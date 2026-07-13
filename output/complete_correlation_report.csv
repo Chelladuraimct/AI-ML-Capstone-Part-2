@@ -1,0 +1,191 @@
+Column 1,Column 2,Pearson,Spearman,Difference,Relationship,Recommended
+hypertension,heart_disease,0.2904,0.7584,0.468,Monotonic but Non-linear,Use Spearman
+heart_disease,triglycerides,-0.1196,-0.3692,0.2496,Monotonic but Non-linear,Use Spearman
+hypertension,triglycerides,-0.1112,-0.3503,0.2391,Monotonic but Non-linear,Use Spearman
+hypertension,HbA1c_level,0.2649,0.3912,0.1263,Monotonic but Non-linear,Use Spearman
+bmi,crp_level,-0.0384,-0.1642,0.1258,Monotonic but Non-linear,Use Spearman
+HbA1c_level,blood_pressure,0.0694,0.1923,0.1229,Monotonic but Non-linear,Use Spearman
+age,heart_disease,0.4047,0.5231,0.1184,Monotonic but Non-linear,Use Spearman
+heart_disease,HbA1c_level,0.2234,0.3405,0.1171,Monotonic but Non-linear,Use Spearman
+age_normalized,heart_disease,0.4047,0.5177,0.113,Monotonic but Non-linear,Use Spearman
+bmi,homocysteine_level,0.063,0.1661,0.1031,Monotonic but Non-linear,Use Spearman
+age,hypertension,0.3899,0.4909,0.101,Monotonic but Non-linear,Use Spearman
+age_normalized,hypertension,0.3899,0.4858,0.0958,Monotonic but Non-linear,Use Spearman
+bmi,heart_disease,0.0693,0.1462,0.077,Monotonic but Non-linear,Use Spearman
+heart_disease,crp_level,-0.0123,-0.0859,0.0736,Monotonic but Non-linear,Use Spearman
+HbA1c_level,homocysteine_level,-0.0119,-0.0824,0.0705,Monotonic but Non-linear,Use Spearman
+crp_level,homocysteine_level,0.0,-0.0684,0.0684,Monotonic but Non-linear,Use Spearman
+heart_disease,homocysteine_level,-0.0147,-0.08,0.0653,Monotonic but Non-linear,Use Spearman
+bmi,hypertension,0.1857,0.2481,0.0624,Monotonic but Non-linear,Use Spearman
+triglycerides,blood_pressure,0.0422,-0.0167,0.0589,Approximately Linear,Use Pearson
+hypertension,crp_level,0.0082,-0.0488,0.057,Monotonic but Non-linear,Use Spearman
+hypertension,blood_pressure,-0.0334,0.0209,0.0543,Approximately Linear,Use Pearson
+crp_level,salt_intake,0.0046,0.0564,0.0517,Monotonic but Non-linear,Use Spearman
+hypertension,homocysteine_level,0.0152,-0.034,0.0492,Monotonic but Non-linear,Use Spearman
+triglycerides,crp_level,-0.0018,0.0457,0.0475,Monotonic but Non-linear,Use Spearman
+cholesterol,homocysteine_level,0.021,0.0663,0.0453,Monotonic but Non-linear,Use Spearman
+hypertension,glucose,0.034,-0.0053,0.0394,Approximately Linear,Use Pearson
+heart_disease,glucose,0.0301,-0.0092,0.0393,Approximately Linear,Use Pearson
+homocysteine_level,hdl,-0.003,-0.0378,0.0348,Monotonic but Non-linear,Use Spearman
+heart_disease,blood_pressure,-0.0473,-0.0134,0.0339,Approximately Linear,Use Pearson
+crp_level,hdl,0.0015,0.0348,0.0333,Monotonic but Non-linear,Use Spearman
+homocysteine_level,salt_intake,-0.0007,-0.0318,0.0311,Monotonic but Non-linear,Use Spearman
+age_normalized,ldl,-0.0108,-0.0408,0.03,Monotonic but Non-linear,Use Spearman
+triglycerides,homocysteine_level,-0.0146,0.0154,0.03,Monotonic but Non-linear,Use Spearman
+age,ldl,-0.0108,-0.0406,0.0298,Monotonic but Non-linear,Use Spearman
+blood_pressure,systolic_bp,-0.0034,-0.0328,0.0294,Monotonic but Non-linear,Use Spearman
+age_normalized,hdl,-0.0033,-0.0319,0.0286,Monotonic but Non-linear,Use Spearman
+age,hdl,-0.0033,-0.0318,0.0285,Monotonic but Non-linear,Use Spearman
+crp_level,heart_rate,-0.0059,-0.0343,0.0283,Monotonic but Non-linear,Use Spearman
+HbA1c_level,glucose,0.0512,0.0251,0.0261,Approximately Linear,Use Pearson
+bmi,hdl,-0.0048,-0.0302,0.0254,Monotonic but Non-linear,Use Spearman
+homocysteine_level,diastolic_bp,-0.0016,0.0235,0.025,Monotonic but Non-linear,Use Spearman
+bmi,ldl,-0.0046,-0.0296,0.025,Monotonic but Non-linear,Use Spearman
+blood_pressure,homocysteine_level,-0.0965,-0.121,0.0245,Monotonic but Non-linear,Use Spearman
+age_normalized,systolic_bp,0.0039,0.0267,0.0228,Monotonic but Non-linear,Use Spearman
+age,systolic_bp,0.0039,0.0265,0.0226,Monotonic but Non-linear,Use Spearman
+systolic_bp,ldl,-0.0005,-0.0218,0.0213,Monotonic but Non-linear,Use Spearman
+age_normalized,HbA1c_level,0.1074,0.0864,0.021,Approximately Linear,Use Pearson
+blood_pressure,crp_level,-0.0624,-0.042,0.0204,Approximately Linear,Use Pearson
+sleep_hours,heart_rate,-0.0037,-0.0233,0.0196,Monotonic but Non-linear,Use Spearman
+salt_intake,ldl,-0.0044,-0.0239,0.0195,Monotonic but Non-linear,Use Spearman
+age,HbA1c_level,0.1074,0.0888,0.0186,Approximately Linear,Use Pearson
+blood_pressure,ldl,0.0068,0.0243,0.0175,Monotonic but Non-linear,Use Spearman
+blood_pressure,heart_rate,0.0082,0.0252,0.017,Monotonic but Non-linear,Use Spearman
+triglycerides,systolic_bp,-0.0031,-0.0189,0.0158,Monotonic but Non-linear,Use Spearman
+hypertension,ldl,-0.0053,-0.0209,0.0156,Monotonic but Non-linear,Use Spearman
+systolic_bp,alcohol_intake,0.0014,-0.0139,0.0153,Monotonic but Non-linear,Use Spearman
+heart_rate,hdl,-0.002,-0.0172,0.0151,Monotonic but Non-linear,Use Spearman
+cholesterol,sleep_hours,0.0185,0.0335,0.015,Monotonic but Non-linear,Use Spearman
+age_normalized,alcohol_intake,0.0004,0.0152,0.0148,Monotonic but Non-linear,Use Spearman
+sleep_hours,blood_pressure,-0.0502,-0.0354,0.0148,Approximately Linear,Use Pearson
+age,alcohol_intake,0.0004,0.0151,0.0148,Monotonic but Non-linear,Use Spearman
+bmi,glucose,0.0283,0.0136,0.0147,Approximately Linear,Use Pearson
+systolic_bp,salt_intake,0.0053,0.0195,0.0142,Monotonic but Non-linear,Use Spearman
+blood_pressure,hdl,-0.0004,0.0137,0.0141,Monotonic but Non-linear,Use Spearman
+salt_intake,heart_rate,0.0011,-0.0127,0.0138,Monotonic but Non-linear,Use Spearman
+age_normalized,salt_intake,0.0045,0.0177,0.0132,Monotonic but Non-linear,Use Spearman
+heart_disease,sleep_hours,0.0155,0.0286,0.0131,Monotonic but Non-linear,Use Spearman
+age,salt_intake,0.0045,0.0176,0.0131,Monotonic but Non-linear,Use Spearman
+heart_disease,ldl,-0.0054,-0.0175,0.0121,Monotonic but Non-linear,Use Spearman
+sleep_hours,ldl,-0.0056,-0.0176,0.012,Monotonic but Non-linear,Use Spearman
+hypertension,sleep_hours,0.0189,0.0308,0.0119,Monotonic but Non-linear,Use Spearman
+alcohol_intake,ldl,-0.0048,0.007,0.0119,Monotonic but Non-linear,Use Spearman
+triglycerides,heart_rate,0.0041,0.015,0.011,Monotonic but Non-linear,Use Spearman
+HbA1c_level,crp_level,-0.0383,-0.0274,0.0109,Approximately Linear,Use Pearson
+crp_level,ldl,-0.0009,-0.0117,0.0108,Monotonic but Non-linear,Use Spearman
+age_normalized,triglycerides,-0.1649,-0.1542,0.0107,Approximately Linear,Use Pearson
+alcohol_intake,heart_rate,-0.0023,-0.0127,0.0104,Monotonic but Non-linear,Use Spearman
+bmi,triglycerides,-0.0114,-0.0216,0.0103,Monotonic but Non-linear,Use Spearman
+crp_level,diastolic_bp,-0.0065,-0.0167,0.0102,Monotonic but Non-linear,Use Spearman
+cholesterol,alcohol_intake,-0.0034,0.0068,0.0101,Monotonic but Non-linear,Use Spearman
+diastolic_bp,salt_intake,-0.0015,-0.0115,0.01,Monotonic but Non-linear,Use Spearman
+age_normalized,blood_pressure,-0.1435,-0.1535,0.01,Monotonic but Non-linear,Use Spearman
+alcohol_intake,hdl,-0.0001,0.0097,0.0098,Monotonic but Non-linear,Use Spearman
+crp_level,alcohol_intake,0.0021,0.0118,0.0097,Monotonic but Non-linear,Use Spearman
+age,diastolic_bp,0.0005,0.01,0.0095,Monotonic but Non-linear,Use Spearman
+age_normalized,diastolic_bp,0.0005,0.01,0.0095,Monotonic but Non-linear,Use Spearman
+homocysteine_level,heart_rate,-0.0014,0.008,0.0094,Monotonic but Non-linear,Use Spearman
+age,heart_rate,-0.0017,0.0077,0.0094,Monotonic but Non-linear,Use Spearman
+age_normalized,heart_rate,-0.0017,0.0078,0.0094,Monotonic but Non-linear,Use Spearman
+HbA1c_level,triglycerides,-0.1648,-0.1554,0.0094,Approximately Linear,Use Pearson
+hypertension,hdl,-0.0019,-0.0112,0.0093,Monotonic but Non-linear,Use Spearman
+HbA1c_level,alcohol_intake,-0.0022,-0.0115,0.0093,Monotonic but Non-linear,Use Spearman
+diastolic_bp,heart_rate,0.0007,0.0099,0.0092,Monotonic but Non-linear,Use Spearman
+bmi,systolic_bp,-0.0004,0.0087,0.0091,Monotonic but Non-linear,Use Spearman
+homocysteine_level,systolic_bp,0.0,0.0091,0.0091,Monotonic but Non-linear,Use Spearman
+age,glucose,0.0333,0.0244,0.0089,Approximately Linear,Use Pearson
+age_normalized,glucose,0.0333,0.0244,0.0089,Approximately Linear,Use Pearson
+age,blood_pressure,-0.1435,-0.1522,0.0087,Monotonic but Non-linear,Use Spearman
+crp_level,systolic_bp,-0.0005,0.0078,0.0083,Monotonic but Non-linear,Use Spearman
+bmi,alcohol_intake,-0.0045,-0.0127,0.0082,Monotonic but Non-linear,Use Spearman
+triglycerides,alcohol_intake,0.0051,0.0133,0.0082,Monotonic but Non-linear,Use Spearman
+diastolic_bp,alcohol_intake,0.0007,-0.0074,0.008,Monotonic but Non-linear,Use Spearman
+sleep_hours,alcohol_intake,-0.0017,0.0063,0.008,Monotonic but Non-linear,Use Spearman
+sleep_hours,salt_intake,0.0022,0.0102,0.008,Monotonic but Non-linear,Use Spearman
+cholesterol,salt_intake,-0.0001,-0.0081,0.0079,Monotonic but Non-linear,Use Spearman
+age,bmi,0.0995,0.0918,0.0078,Approximately Linear,Use Pearson
+sleep_hours,triglycerides,-0.0441,-0.0518,0.0077,Monotonic but Non-linear,Use Spearman
+heart_disease,hdl,-0.0018,-0.0093,0.0075,Monotonic but Non-linear,Use Spearman
+heart_disease,systolic_bp,0.0023,0.0097,0.0074,Monotonic but Non-linear,Use Spearman
+cholesterol,heart_rate,-0.0003,-0.0077,0.0074,Monotonic but Non-linear,Use Spearman
+cholesterol,diastolic_bp,0.0015,-0.0058,0.0073,Monotonic but Non-linear,Use Spearman
+age_normalized,bmi,0.0995,0.0923,0.0072,Approximately Linear,Use Pearson
+HbA1c_level,hdl,-0.0019,-0.009,0.0071,Monotonic but Non-linear,Use Spearman
+HbA1c_level,systolic_bp,0.005,0.0118,0.0068,Monotonic but Non-linear,Use Spearman
+age_normalized,cholesterol,0.0322,0.0389,0.0067,Monotonic but Non-linear,Use Spearman
+bmi,HbA1c_level,0.0362,0.0295,0.0067,Approximately Linear,Use Pearson
+age,cholesterol,0.0322,0.0388,0.0066,Monotonic but Non-linear,Use Spearman
+hypertension,systolic_bp,0.0012,0.0077,0.0065,Monotonic but Non-linear,Use Spearman
+diastolic_bp,hdl,-0.002,-0.0084,0.0065,Monotonic but Non-linear,Use Spearman
+triglycerides,ldl,0.0043,0.0108,0.0065,Monotonic but Non-linear,Use Spearman
+systolic_bp,hdl,0.002,-0.0045,0.0065,Monotonic but Non-linear,Use Spearman
+glucose,blood_pressure,0.0013,0.0078,0.0064,Monotonic but Non-linear,Use Spearman
+sleep_hours,diastolic_bp,-0.0051,-0.0114,0.0063,Monotonic but Non-linear,Use Spearman
+bmi,blood_pressure,-0.0915,-0.0853,0.0062,Approximately Linear,Use Pearson
+cholesterol,triglycerides,-0.0285,-0.0224,0.0061,Approximately Linear,Use Pearson
+heart_rate,ldl,0.002,0.008,0.006,Monotonic but Non-linear,Use Spearman
+bmi,cholesterol,0.0267,0.0326,0.0058,Monotonic but Non-linear,Use Spearman
+bmi,heart_rate,-0.003,0.0027,0.0057,Approximately Linear,Use Pearson
+glucose,triglycerides,-0.002,-0.0076,0.0056,Monotonic but Non-linear,Use Spearman
+diastolic_bp,ldl,-0.0002,0.0053,0.0055,Monotonic but Non-linear,Use Spearman
+hdl,ldl,0.0028,0.0081,0.0053,Monotonic but Non-linear,Use Spearman
+triglycerides,hdl,0.003,0.0083,0.0053,Monotonic but Non-linear,Use Spearman
+sleep_hours,homocysteine_level,0.0139,0.0192,0.0052,Monotonic but Non-linear,Use Spearman
+sleep_hours,hdl,-0.0031,0.002,0.0052,Approximately Linear,Use Pearson
+hypertension,cholesterol,0.0113,0.0165,0.0052,Monotonic but Non-linear,Use Spearman
+HbA1c_level,ldl,-0.0039,-0.009,0.0051,Monotonic but Non-linear,Use Spearman
+glucose,alcohol_intake,-0.0006,-0.0055,0.005,Monotonic but Non-linear,Use Spearman
+age,triglycerides,-0.1649,-0.16,0.0049,Approximately Linear,Use Pearson
+cholesterol,ldl,-0.0014,0.0034,0.0048,Monotonic but Non-linear,Use Spearman
+cholesterol,hdl,-0.0024,-0.0072,0.0048,Monotonic but Non-linear,Use Spearman
+heart_disease,alcohol_intake,-0.0011,-0.0057,0.0046,Monotonic but Non-linear,Use Spearman
+glucose,homocysteine_level,-0.0047,-0.0092,0.0045,Monotonic but Non-linear,Use Spearman
+HbA1c_level,salt_intake,0.0022,0.0066,0.0044,Monotonic but Non-linear,Use Spearman
+sleep_hours,systolic_bp,0.0016,0.0058,0.0042,Monotonic but Non-linear,Use Spearman
+cholesterol,blood_pressure,-0.032,-0.0361,0.0042,Monotonic but Non-linear,Use Spearman
+hypertension,salt_intake,0.0013,0.0054,0.0041,Monotonic but Non-linear,Use Spearman
+hypertension,heart_rate,0.0005,0.0045,0.004,Monotonic but Non-linear,Use Spearman
+cholesterol,crp_level,0.0064,0.0025,0.0039,Approximately Linear,Use Pearson
+sleep_hours,crp_level,0.0264,0.0226,0.0038,Approximately Linear,Use Pearson
+glucose,salt_intake,-0.0,0.0038,0.0038,Monotonic but Non-linear,Use Spearman
+heart_disease,cholesterol,0.0075,0.0108,0.0033,Monotonic but Non-linear,Use Spearman
+triglycerides,diastolic_bp,0.0054,0.0021,0.0033,Approximately Linear,Use Pearson
+glucose,hdl,0.0013,-0.0018,0.0031,Monotonic but Non-linear,Use Spearman
+glucose,systolic_bp,0.0016,0.0047,0.0031,Monotonic but Non-linear,Use Spearman
+salt_intake,hdl,-0.0047,-0.0074,0.0027,Monotonic but Non-linear,Use Spearman
+age,homocysteine_level,0.0449,0.0422,0.0027,Approximately Linear,Use Pearson
+bmi,sleep_hours,0.032,0.0345,0.0026,Monotonic but Non-linear,Use Spearman
+homocysteine_level,alcohol_intake,-0.0012,-0.0039,0.0026,Monotonic but Non-linear,Use Spearman
+HbA1c_level,diastolic_bp,-0.001,0.0016,0.0026,Monotonic but Non-linear,Use Spearman
+hypertension,alcohol_intake,-0.0015,-0.0041,0.0026,Monotonic but Non-linear,Use Spearman
+HbA1c_level,cholesterol,0.0119,0.0095,0.0025,Approximately Linear,Use Pearson
+glucose,diastolic_bp,0.0008,0.0033,0.0025,Monotonic but Non-linear,Use Spearman
+heart_disease,salt_intake,0.0024,0.0048,0.0024,Monotonic but Non-linear,Use Spearman
+blood_pressure,salt_intake,-0.0049,-0.0071,0.0021,Monotonic but Non-linear,Use Spearman
+glucose,sleep_hours,0.0009,0.0031,0.0021,Monotonic but Non-linear,Use Spearman
+glucose,ldl,-0.0023,-0.0043,0.002,Monotonic but Non-linear,Use Spearman
+age,sleep_hours,0.0461,0.0479,0.0019,Monotonic but Non-linear,Use Spearman
+hypertension,diastolic_bp,-0.0017,-0.0035,0.0018,Monotonic but Non-linear,Use Spearman
+age_normalized,sleep_hours,0.0461,0.0478,0.0018,Monotonic but Non-linear,Use Spearman
+age_normalized,homocysteine_level,0.0449,0.0431,0.0018,Approximately Linear,Use Pearson
+systolic_bp,heart_rate,-0.0,0.0015,0.0015,Monotonic but Non-linear,Use Spearman
+age_normalized,crp_level,0.0414,0.0428,0.0014,Monotonic but Non-linear,Use Spearman
+bmi,diastolic_bp,0.0002,0.0016,0.0014,Monotonic but Non-linear,Use Spearman
+blood_pressure,diastolic_bp,0.008,0.0067,0.0013,Approximately Linear,Use Pearson
+heart_disease,diastolic_bp,0.0008,-0.0005,0.0013,Approximately Linear,Use Pearson
+heart_disease,heart_rate,-0.0017,-0.0005,0.0012,Approximately Linear,Use Pearson
+homocysteine_level,ldl,-0.0004,-0.0016,0.0012,Monotonic but Non-linear,Use Spearman
+systolic_bp,diastolic_bp,0.0027,0.0037,0.001,Monotonic but Non-linear,Use Spearman
+HbA1c_level,heart_rate,-0.0006,0.0003,0.0008,Approximately Linear,Use Pearson
+cholesterol,systolic_bp,-0.0018,-0.0026,0.0008,Monotonic but Non-linear,Use Spearman
+glucose,cholesterol,0.0008,0.0015,0.0007,Monotonic but Non-linear,Use Spearman
+blood_pressure,alcohol_intake,-0.0019,-0.0012,0.0007,Approximately Linear,Use Pearson
+glucose,heart_rate,-0.0027,-0.002,0.0007,Approximately Linear,Use Pearson
+glucose,crp_level,0.0009,0.0003,0.0006,Approximately Linear,Use Pearson
+bmi,salt_intake,-0.0002,-0.0009,0.0006,Monotonic but Non-linear,Use Spearman
+triglycerides,salt_intake,-0.002,-0.0024,0.0005,Monotonic but Non-linear,Use Spearman
+age,crp_level,0.0414,0.0418,0.0004,Monotonic but Non-linear,Use Spearman
+alcohol_intake,salt_intake,-0.004,-0.0043,0.0003,Monotonic but Non-linear,Use Spearman
+age,age_normalized,1.0,0.9999,0.0001,Approximately Linear,Use Pearson
+HbA1c_level,sleep_hours,0.0177,0.0176,0.0001,Approximately Linear,Use Pearson

@@ -1,0 +1,4 @@
+Column 1,Column 2,Pearson,Spearman,Difference,Relationship
+hypertension,heart_disease,0.2904,0.7584,0.468,Monotonic but Non-linear
+heart_disease,triglycerides,-0.1196,-0.3692,0.2496,Monotonic but Non-linear
+hypertension,triglycerides,-0.1112,-0.3503,0.2391,Monotonic but Non-linear
